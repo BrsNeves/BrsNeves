@@ -15,4 +15,4 @@ um dos meus principais projetos é o **Dinheiro Bem Contado**, um sistema de org
 - 🌅 contemplador nato
 - 🎮 curto jogos e novas experiências
 - 🍺 não recuso uma cerveja  
-- 🥁 música é uma parte grande da minha vida toco em bateria universiaria (caixa e marcação) e também violão 🎸  
+- 🥁 Toco violão e em bateria universiaria (caixa e marcação)
