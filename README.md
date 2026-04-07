@@ -10,7 +10,7 @@ tenho experiência com SQL (MySQL, PostgreSQL, SQL Server e Athena) e também j�
 
 um dos meus principais projetos é o **Dinheiro Bem Contado**, um sistema de organização financeira que desenvolvi no Notion, com foco em controle de movimentações entre contas e consistência dos dados  
 
-## Um pouco mais sobre mim
+## Um pouco sobre mim
 
 - 🌅 contemplador nato
 - 🎮 curto jogos e novas experiências
