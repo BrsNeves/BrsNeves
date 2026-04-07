@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**BrsNeves/BrsNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Brian, é um prazer!  
 
-Here are some ideas to get you started:
+Gosto de construir coisas pra resolver problemas do meu dia a dia 😼 algumas delas talvez ajudem você também  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+atualmente estou focado em backend, bancos de dados e na construção de sistemas mais estruturados.
+
+tenho experiência com SQL (MySQL, PostgreSQL, SQL Server e Athena) e também já trabalhei com Python em projetos da faculdade  
+
+um dos meus principais projetos é o **Dinheiro Bem Contado**, um sistema de organização financeira que desenvolvi no Notion, com foco em controle de movimentações entre contas e consistência dos dados  
+
+## Um pouco mais sobre mim
+
+- 🌅 contemplador nato
+- 🎮 curto jogos e novas experiências
+- 🍺 não recuso uma cerveja  
+- 🥁 música é uma parte grande da minha vida toco em bateria universiaria (caixa e marcação) e também violão 🎸  
