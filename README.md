@@ -12,7 +12,7 @@ um dos meus principais projetos é o **Dinheiro Bem Contado**, um sistema de org
 
 ## Um pouco sobre mim
 
-- 🌅 contemplador nato
-- 🎮 curto jogos e novas experiências
+- 🌅 Aprecio muito estar na natureza
+- 🎮 curto jogos e novas aventuras
 - 🍺 não recuso uma cerveja  
 - 🥁 Toco violão e em bateria universiaria (caixa e marcação)
